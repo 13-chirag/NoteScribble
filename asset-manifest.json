@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/NoteScribble/static/css/main.35715873.css",
+    "main.js": "/NoteScribble/static/js/main.40363338.js",
+    "static/js/787.11e48f93.chunk.js": "/NoteScribble/static/js/787.11e48f93.chunk.js",
+    "index.html": "/NoteScribble/index.html",
+    "main.35715873.css.map": "/NoteScribble/static/css/main.35715873.css.map",
+    "main.40363338.js.map": "/NoteScribble/static/js/main.40363338.js.map",
+    "787.11e48f93.chunk.js.map": "/NoteScribble/static/js/787.11e48f93.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.35715873.css",
+    "static/js/main.40363338.js"
+  ]
+}
